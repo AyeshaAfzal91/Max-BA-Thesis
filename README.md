@@ -37,7 +37,7 @@
 
 ## Vacation
 - AA: SC26 Conference (Nov 14 - Nov 21)
-- Max: ??
+- Max: Nov 22 - Dec 14 (South Africa --- try for remote access; try to figure out if this works)
 
 ---
 
