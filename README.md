@@ -7,7 +7,7 @@
 - Document a **summary of changes and steps taken** for each **task** in the corresponding **README files**.
 - Always commit the latest results to GitHub.
 
-### Student Email and Accounts/username
+### Max Forsthövel: Email and Accounts/username
 
 | Account | Address |
 |---------|---------|
