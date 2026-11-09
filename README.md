@@ -11,10 +11,10 @@
 
 | Account | Address |
 |---------|---------|
-| FAU |  |
-| Gmail |  |
-| GitHub |  |
-| Matrix | @XXXX:matrix.org |
+| FAU | max.forsthoevel@fau.de |
+| Gmail | awsdbfh@gmail.com |
+| GitHub | Max-Dinosaur |
+| Matrix | @ec84ocuk:fau.de |
 
 ### Status Overview
 
