@@ -45,5 +45,5 @@
 
 - **First task:** Familiarize yourself with DisCostiC (https://github.com/RRZE-HPC/DisCostiC-Sim) by compiling and building the software and running the demo: https://github.com/RRZE-HPC/DisCostiC-Sim/tree/main/demo
 - **Second task:** How to extend it towards GPUs:
-  - Prototype for GPU YAML files
+  - Prototype for GPU YAML files: https://github.com/AyeshaAfzal91/Max-BA-Thesis/blob/main/H100_GPU_Machine_File_Documentation-.pdf 
 - **Next step:** Discuss the process and any questions during the weekly meetings.
