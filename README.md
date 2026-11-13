@@ -27,6 +27,17 @@
 | Matrix room for chat (create an account at matrix.org) | DONE |
 | Access to HPC systems (Fritz/Alex) at NHR@FAU (Portal: https://portal.hpc.fau.de; login: `ssh -Y ihpcXXXh@fritz.nhr.fau.de`) | DONE |
 
+Fill https://hpc.fau.de/tier3-access-to-fritz
+FAU e-mail
+Multi-node
+Compute time: 1000
+Brief description of planned work:
+Extending DisCostiC-Sim to model and simulate the performance usage of MPI parallel applications on GPUs. The work will involve developing an performance model and validating its predictions against measured data on GPUs.
+Required software / applications:
+C++, CMake, GNU Make, Git, Python 3, pip/Conda, Intel MPI, Slurm, and Python-based analysis tools (NumPy, pandas, Matplotlib), Likwid. Nvidia-smi
+Expected outcome: An extended simulator that predicts performance for specified hardware configurations, validated against measured results on GPUs.
+BSc/MSc Theses
+
 ### Thesis Timeline
 
 - **Thesis requirements:** Two presentations and a comprehensive written thesis.
